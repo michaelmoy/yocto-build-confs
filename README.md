@@ -1,7 +1,7 @@
 # yocto
 Yocto Projects. One Machine or Project per Branch
 
-Put this repo in the yocto folder and in the poky/build/cong folder, make a link to the config files in this repo.
+Put this repo in the yocto folder and in the poky/build/conf folder, make a link to the config files in this repo.
 
 ln -s /home/michael/MoySandbox/yocto/yocto-build-confs/conf/local.conf /home/michael/MoySandbox/yocto/poky/build/conf/local.conf
 
