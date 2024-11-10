@@ -7,7 +7,9 @@ ln -s /home/michael/MoySandbox/yocto/yocto-build-confs/conf/local.conf /home/mic
 
 ln -s /home/michael/MoySandbox/yocto/yocto-build-confs/conf/bblayers.conf /home/michael/MoySandbox/yocto/poky/build/conf/bblayers.conf
 
-The 7 Inch Touchscreen works on dunfell automatically. All the other branches need to be build for TS only suppport.
+The 7 Inch Touchscreen works on dunfell automatically. All the other branches need to be build for TS or NON-TS; it is not automatic like in dunfell.
+
+The 7 Inch Touchscreen 2 is not supported at this time; even in dunfell
 
 The branch breakdown:
 
