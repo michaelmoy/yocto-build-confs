@@ -7,7 +7,9 @@ ln -s /home/michael/MoySandbox/yocto/yocto-build-confs/conf/local.conf /home/mic
 
 ln -s /home/michael/MoySandbox/yocto/yocto-build-confs/conf/bblayers.conf /home/michael/MoySandbox/yocto/poky/build/conf/bblayers.conf
 
-This branch has:
+The 7 Inch Touchscreen works on dunfell automatically. All the other branches need to be build for TS only suppport.
+
+The branch breakdown:
 
 - rp4-64-w1-php-dunfell Has One Wire and Apache2 with PHP for a Dunfell branch build
 - rp4-64-w1-php-qt5-dunfell Has qt5 Apps added
